@@ -1,2 +1,3 @@
 # ARJS Implementation for Interactive Presentation
-Complied with ARJS Library
+ARJS Interactive Element for Art Analysis of Banksy's Devolved Parliament
+Compiled with ARJS Library
